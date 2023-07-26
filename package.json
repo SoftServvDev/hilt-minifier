@@ -1,0 +1,23 @@
+{
+  "name": "hilt-minifier",
+  "version": "1.0.0",
+  "description": "A minifier tool for different types of files, check the readme!",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minifier",
+    "css",
+    "css3",
+    "html",
+    "html5",
+    "js",
+    "javascript"
+  ],
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "author": "SoftServv",
+  "license": "ISC"
+}
