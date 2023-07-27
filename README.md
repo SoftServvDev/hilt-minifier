@@ -5,10 +5,10 @@
 This is a global NPM package, you can use it by using the hilt command in your terminal/command prompt.
 
 <h5>Flags</h5>
--s (single file minifier)
--d (entire working directory file minifier)
--c (keep comments and minify)
--r (remove comments only)
+<p>-s (single file minifier)</p>
+<p>-d (entire working directory file minifier)</p>
+<p>-c (keep comments and minify)</p>
+<p>-r (remove comments only)</p>
 
 
 <h5>Usage</h5>
