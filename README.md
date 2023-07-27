@@ -5,7 +5,7 @@
 <h3>Installation</h3>
 This package is meant to be used in the commandline. You can use the npm command below to install it.
 
-<p>*npm i hilt-minifier -g*</p>
+<p><i>npm i hilt-minifier -g</i></p>
 
 This is a global NPM package, you can use it by using the hilt command in your terminal/command prompt. I plan on adding more file types if anyone is interested or in need of it, just email me at the address near the bottom of this page.
 
