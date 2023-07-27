@@ -1,6 +1,6 @@
 {
   "name": "hilt-minifier",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A minifier tool for different types of files, check the readme!",
   "main": "./bin/index.js",
   "scripts": {
@@ -16,8 +16,13 @@
     "javascript"
   ],
   "bin": {
-    "hello": "./bin/index.js"
+    "hilt": "./bin/index.js"
   },
   "author": "SoftServv",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "yargs": "^17.7.2"
+  }
 }
