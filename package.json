@@ -13,7 +13,20 @@
     "html",
     "html5",
     "js",
-    "javascript"
+    "javascript",
+    "node",
+    "nodejs",
+    "cli",
+    "commandline",
+    "command",
+    "line",
+    "interface",
+    "commandlineinterface",
+    "tool",
+    "tools",
+    "dev",
+    "devtool",
+    "devtools"
   ],
   "bin": {
     "hilt": "bin/index.js"

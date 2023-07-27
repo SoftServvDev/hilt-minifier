@@ -5,7 +5,7 @@
 <h3>Installation</h3>
 This package is meant to be used in the commandline. You can use the npm command below to install it.
 
-npm i hilt-minifier -g
+<p>*npm i hilt-minifier -g*</p>
 
 This is a global NPM package, you can use it by using the hilt command in your terminal/command prompt. I plan on adding more file types if anyone is interested or in need of it, just email me at the address near the bottom of this page.
 
@@ -31,11 +31,11 @@ The interface is easy to understand, and fully color-coded to help differentiate
 
 *Single File Minify*
 
-<img src="https://i.ibb.co/T13YhDq/single-minify.png" alt="single-minify" style="height: 300px;">
+<img src="https://i.ibb.co/T13YhDq/single-minify.png" alt="single-minify" style="width: 500px;">
 
 *Working Directory Minify*
 
-<img src="https://i.ibb.co/qRD1gGR/directory-minify.png" alt="directory-minify" style="height: 300px;">
+<img src="https://i.ibb.co/qRD1gGR/directory-minify.png" alt="directory-minify" style="width: 500px;">
 
 
 <h5 style="color: #16f52c;">You are welcome to support SoftServv, which helps us build more free tools like this. You can email support@softservv.com if you are interested, but it is NOT necessary to utilize and enjoy any of the tools.</h5>
