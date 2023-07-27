@@ -2,6 +2,11 @@
 <h1>HILT</h1>
 <h2>Minifier Tool for CSS</h2>
 
+<h3>Installation</h3>
+This package is meant to be used in the commandline. You can use the npm command below to install it.
+
+npm i hilt-minifier -g
+
 This is a global NPM package, you can use it by using the hilt command in your terminal/command prompt. I plan on adding more file types if anyone is interested or in need of it, just email me at the address near the bottom of this page.
 
 <h3>Flags</h3>
